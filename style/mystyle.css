@@ -1,0 +1,84 @@
+.container{
+    text-align: center;
+}
+
+
+
+.nilai{
+    font-size: 30pt;
+}
+
+.card-title{
+    font-size: 30pt;
+}
+
+.card-body{
+    margin-top: 50px;
+    margin-bottom:50px;
+
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+}
+
+.card{
+    width: 300px;
+    height: 300px;
+}
+
+.h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #4a4a4a !important;
+}
+
+.h2 {
+    margin-top: 0;
+    color: #4a4a4a;
+    font-size: 20pt;
+}
+
+
+.card-pm {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 600px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Table Styling */
+table {
+    width: 100%; /* Tabel memenuhi lebar container */
+    border-collapse: collapse; /* Hilangkan garis ganda antar sel */
+    margin-top: 10px;
+    font-size: 14px; /* Ukuran font */
+    border: 1px solid #ddd; /* Tambahkan border */
+}
+
+table th, table td {
+    border: 1px solid #ddd; /* Border di dalam tabel */
+    padding: 8px; /* Jarak teks dari tepi sel */
+    text-align: center; /* Teks berada di tengah secara horizontal */
+    vertical-align: middle; /* Teks berada di tengah secara vertikal */
+}
+
+table th {
+    background-color: #96D2D9; /* Warna header tabel */
+    color: white; /* Warna teks pada header */
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2; /* Warna latar untuk baris genap */
+}
+.parameter {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f7f9fc;
+    color: #333;
+}

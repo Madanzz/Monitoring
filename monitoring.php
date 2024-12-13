@@ -305,7 +305,7 @@
 
 
 <div class="container">
-      <p>Kembali ke Halaman <a href="./index.html"> Sebelumnya</a></p>
+      <p>Kembali ke Halaman <a href="https://madanzz.github.io/"> Sebelumnya</a></p>
 </div>
 </body>
 </html>
